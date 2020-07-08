@@ -1,6 +1,6 @@
 # Estrutura MVC para estudos
 
-Estrutura MVC baseada no curso da B7WEB, apenas para fins de estudo próprio
+Estrutura MVC baseada no curso da B7WEB, apenas para fins de estudo próprio. Esta versão usa psr-0 apenas para fins didáticos
 
 ## Instalação
 
